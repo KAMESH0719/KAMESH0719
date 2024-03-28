@@ -13,6 +13,12 @@
 
 - ⚡ Fun fact **I am funny**
 
+ <br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/kamesh0719/count.svg" alt="kamesh0719" /> </p>
+ 
+ </br>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -62,9 +68,3 @@
 <a href = "Your Instagram Profile Link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kamesh0719">
-</a>
-<a href="https://github.com/kamesh0719?tab=followers"><img src="https://img.shields.io/github/followers/kamesh0719?label=Followers&style=social" alt="GitHub Badge"></a>
